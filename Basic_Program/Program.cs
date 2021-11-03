@@ -16,6 +16,7 @@ namespace Basic_Program
             //{
 
                 Console.WriteLine("Enter your Choice : \n1.Flip Coin. \n2.Leap Year. \n3.Harmonic Number. \n4.Power of 2. \n5.Prime Factor. \n6.Even or Odd. \n7.Divisor and Dividend. \n8.Large Number. \n9.Check Vowel or Consonant.\n10.Swap.");
+
                 int key = Convert.ToInt32(Console.ReadLine());
 
                 switch (key)
